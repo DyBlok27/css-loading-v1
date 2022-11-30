@@ -1,1 +1,4 @@
-# css-loading-v1
+# CSS loading animation
+**Loading animation**
+
+- **File language:** *-*
