@@ -2,3 +2,4 @@
 **Loading animation**
 
 - **File language:** *-*
+- **Download:** *-*
